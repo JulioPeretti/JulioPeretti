@@ -1,4 +1,4 @@
-- Helo, I'm Julio Peretti.
+- Hello, I'm Julio Peretti.
 <!---
 JulioPeretti/JulioPeretti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
